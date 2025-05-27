@@ -2,5 +2,21 @@
 
 .ode {
     background-color: #ffc0cb;
-    font: Verdana, "DejaVu Sans", sans-serif;
+    font: Verdana "DejaVu Sans" sans-serif;
+    font-size: 60px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.q {
+    color: #0000ff;
+    font-size: 96px;
+}
+
+.p {
+    background-color: #90ee90;
+    font-size: 84px;
+    font-weight: 700;
 }
